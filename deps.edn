@@ -1,0 +1,8 @@
+{:paths ["src" "resources"]
+
+ :deps {uncomplicate/neanderthal {:mvn/version "0.27.0"}
+        criterium {:mvn/version "0.4.5"}}}
+
+;; :aliases
+;; {:default
+;;  {:jvm-opts "--add-opens=java.base/jdk.internal.ref=ALL-UNNAMED"}}
